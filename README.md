@@ -42,7 +42,7 @@ provider "aws" {
   secret_key = "my-secret-key"
 ...
 }
-
+```
 2 - Puis, exécuter les commandes suivantes :
 
 ```bash
